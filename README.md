@@ -4,7 +4,7 @@ Implement your own version of The Game of Life, so you can :
 - see the development of generations
 - try out different initial generations
 - try out other rules
-- evt. edit and save a generation
+- evt. edit and save a generation  
 It is important to remember, that what happens between 2 generations happens
 simultanously, i.e. at the same time.
 ## World
