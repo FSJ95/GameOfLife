@@ -2,7 +2,8 @@
 
 
 # The Game Of Life
-> by Frederik Søndergaard Jensen coded in Java.
+> by Frederik Søndergaard Jensen
+
 Implement your own version of The Game of Life, so you can :
 - create, read or update in the initial generation
 - see the development of generations
