@@ -1,4 +1,4 @@
-# The Game Of Life
+# The Game Of Life <h3> by @FSJ95
 Implement your own version of The Game of Life, so you can :
 - create, read or update in the initial generation
 - see the development of generations
