@@ -1,6 +1,3 @@
-# Awesome README [![HEY]
-
-
 # The Game Of Life
 > by Frederik Søndergaard Jensen
 
