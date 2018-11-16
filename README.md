@@ -16,11 +16,11 @@ Each position contains either nothing or a cell.
 The simulation consist of generations. From each genera- tion to the next, the cells either die, survive or are born as new cells depending upon the previous generation.
 
 ## Cell Rules
-- **Under-population:**
+- **Under-population:**. 
   Any live cell with fewer than two live neighbors dies.
-- **Surviving:  
+- **Surviving:**  
   Any live cell with two or three live neighbors lives on.
-- **Overcrowding:  
+- **Overcrowding:**  
   Any live cell with more than three live neighbors dies.
-- **Reproduction:  
+- **Reproduction:**  
   Any dead cell with exactly three live neighbors becomes a live cell.
