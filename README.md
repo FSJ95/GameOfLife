@@ -1,7 +1,8 @@
 # Awesome README [![HEY]
-> A curated list of awesome READMEs
 
-# The Game Of Life <h3> by @FSJ95
+
+# The Game Of Life
+> by Frederik Søndergaard Jensen coded in Java.
 Implement your own version of The Game of Life, so you can :
 - create, read or update in the initial generation
 - see the development of generations
